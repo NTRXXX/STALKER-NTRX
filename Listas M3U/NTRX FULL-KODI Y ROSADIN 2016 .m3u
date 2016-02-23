@@ -1,4 +1,333 @@
-Ôªø#EXTM3U
+DVERTENCIA IMPORTANTE:
+ 
+ Todos los enlaces que est·n en mi lista no son de mi autorÌa, pero las horas de investigaciÛn y la organizaciÛn de las listas, este
+ 
+mÈrito es todo mÌo!
+ 
+ Hago esto libremente y acepto donaciones a voluntad, porque soy una persona honesta, pero lamentablemente hay gente mala que se aprovechan de
+ 
+nuestra generosidad para seren reconocidos, cuando en realidad simplemente copian/pegan de otros usuarios.
+ 
+ Recientemente descubriÛ que un propietario de un sitio web de Mexico hace negocio con las listas que publico libremente. Ese miembro
+ 
+baja los archivos m3u de RedeNeobux y en su p·gina web personal pide una donaciÛn por paypal a cambio de la lista m3u, cuando en
+ 
+realidad obtiene libremente a travÈs de nuestra p·gina.
+ 
+ Si el problema continuar, voy a bloquear la lista de EspaÒa o eliminar la lista de nuestra p·gina. No tengo problemas con la
+ 
+divulgaciÛn de las listas, desde que ponga la fuente (REDENEOBUX.COM), 
+#EXTM3U
+#EXTINF:-1,[I][B][COLOR red]    -------------------------- [COLOR green]ATENCION[/COLOR] --------------------------[/COLOR][/B][/I]
+ 
+ 
+ 
+#EXTINF:-1,[I][B][COLOR white]Todos estos streams presentados fueron encontrados en el Internet...[/COLOR][/B][/I]
+http://0.0.0.0:1234
+ 
+ 
+ 
+#EXTINF:-1,[I][B][COLOR white]No tenemos ningun servidor o transmitimos ninguna seÒal.[/COLOR][/B][/I]
+ 
+ 
+ 
+#EXTINF:-1,[I][B][COLOR white]Todo lo que encuentra en la lista son el resultado de[/COLOR][/B][/I]
+ 
+ 
+ 
+#EXTINF:-1,[I][B][COLOR white] muchas horas de busqueda en Internet,[/COLOR][/B][/I]
+ 
+ 
+ 
+#EXTINF:-1,[I][B][COLOR orange]------------------- TV CABLE ON IPTV ARGENTO --------------------[/COLOR][/B][/I]
+ 
+
+ 
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------------------------------[/B][/I][/COLOR]
+ 
+#EXTM3U
+
+#EXTINF:-1, [COLOR yellow]Actualizado 20/2/2016 @ 5:30 PM  (argentina)[/COLOR]    
+http://www.
+
+
+
+#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]TV CABLE ON IPTV ARGENTO[/COLOR][COLOR skyblue] [/COLOR][COLOR red]--------------[/COLOR]
+http://www
+
+#EXTINF:-1,FOX
+http://178.238.224.19/5858/201.m3u8
+
+#EXTINF:-1,FOX1
+http://178.238.224.19/5858/415.m3u8
+
+
+#EXTINF:-1,TNT series
+http://178.238.224.19/5858/266.m3u8
+
+
+#EXTINF:-1,space
+http://178.238.224.19/5858/445.m3u8
+
+#EXTINF:-1,FX
+http://178.238.224.19/5858/209.m3u8
+
+#EXTINF:-1,Sony
+http://178.238.224.19/5858/203.m3u8
+
+
+#EXTINF:-1,AXN
+http://178.238.224.19/5858/213.m3u8
+
+#EXTINF:-1,Fox Action
+http://178.238.224.19/5858/416.m3u8
+
+#EXTINF:-1,Fox Movies
+http://178.238.224.19/5858/417.m3u8
+
+#EXTINF:-1,Cinemax
+http://178.238.224.19/5858/481.m3u8
+
+#EXTINF:-1,Golden
+http://178.238.224.19/5858/436.m3u8
+
+#EXTINF:-1,Cinecanal
+http://tv.tecnotv.net/block.m3u
+
+#EXTINF:-1,Golden Edge
+http://tv.tecnotv.net/block.m3u
+
+#EXTINF:-1,TNT series
+http://178.238.224.19/5858/266.m3u8
+
+#EXTINF:-1,FX
+http://178.238.224.19/5858/209.m3u8
+
+#EXTINF:-1,Sony
+http://178.238.224.19/5858/203.m3u8
+
+
+
+#EXTINF:-1,Fox Action
+http://178.238.224.19/5858/416.m3u8
+
+#EXTINF:-1,Fox Movies
+http://178.238.224.19/5858/417.m3u8
+
+#EXTINF:-1,Cinemax
+http://178.238.224.19/5858/481.m3u8
+
+#EXTINF:-1,Golden
+http://178.238.224.19/5858/436.m3u8
+
+
+
+#EXTINF:-1 , PELICULAS
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+
+
+
+#EXTINF:-1,Los Simpson
+http://tv.tecnotv.net/Simpson.mp4
+
+#EXTINF:-1, Anime
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+
+
+
+#EXTINF:-1,History
+http://178.238.224.19/5858/353.m3u8
+
+#EXTINF:-1,NatGeo Wild
+http://tv.tecnotv.net/block.m3u
+
+#EXTINF:-1,TLC
+http://178.238.224.19/5858/386.m3u8
+
+#EXTINF:-1,Dircovery Home
+http://tv.tecnotv.net/block.m3u
+
+#EXTINF:-1,bbc
+http://178.238.224.19/5858/253.m3u8
+
+#EXTINF:-1,E
+http://tv.tecnotv.net/block.m3u
+
+
+#EXTINF:-1,Tele Novelas
+http://178.238.224.19/5858/275.m3u8
+
+#EXTINF:-1,Galavision
+http://178.238.224.19/5858/109.m3u8
+
+#EXTINF:-1,Canal 2
+http://tv.tecnotv.net/block.m3u
+
+#EXTINF:-1,Azteca 7
+http://tv.tecnotv.net/block.m3u
+
+
+
+#EXTINF:-1,Azteca 7 Monterrey
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+
+#EXTINF:-1,Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+
+
+#EXTINF:-1,Canal Once
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+
+#EXTINF:-1,Nicktoons
+http://tv.tecnotv.net/block.m3u
+
+#EXTINF:-1,Disney XD
+http://178.238.224.19/5858/322.m3u8
+
+#EXTINF:-1,Disney Channel
+http://tv.tecnotv.net/block.m3u
+
+#EXTINF:-1,Nick
+http://tv.tecnotv.net/block.m3u
+
+#EXTINF:-1,Tooncast
+http://178.238.224.19/5858/328.m3u8
+
+#EXTINF:-1,Boomerang
+http://178.238.224.19/5858/324.m3u8
+
+#EXTINF:-1,Cartoon Network
+http://tv.tecnotv.net/block.m3u
+
+#EXTINF:-1,Discovery Kids
+http://178.238.224.19/5858/303.m3u8
+
+#EXTINF:-1,Disney Jr
+http://tv.tecnotv.net/block.m3u
+
+
+
+#EXTINF:-1,Tele Novelas
+http://178.238.224.19/5858/275.m3u8
+
+#EXTINF:-1,STUDIO UNIVERSAL
+http://178.238.224.19/5858/492.m3u8
+
+#EXTINF:-1,National Geografic
+http://178.238.224.19/5858/377.m3u8
+
+#EXTINF:-1,Discovery Channel
+http://tv.tecnotv.net/block.m3u
+
+#EXTINF:-1,ID
+http://tv.tecnotv.net/block.m3u
+
+#EXTINF:-1,Fox Life
+http://tv.tecnotv.net/block.m3u
+
+#EXTINF:-1,History
+http://178.238.224.19/5858/353.m3u8
+
+#EXTINF:-1,NatGeo Wild
+http://tv.tecnotv.net/block.m3u
+
+#EXTINF:-1,TLC
+http://178.238.224.19/5858/386.m3u8
+
+#EXTINF:-1,Dircovery Home
+http://tv.tecnotv.net/block.m3u
+
+#EXTINF:-1,bbc
+http://178.238.224.19/5858/253.m3u8
+
+#EXTINF:-1,E
+http://tv.tecnotv.net/block.m3u
+
+
+#EXTINF:-1,True H
+http://178.238.224.19/5858/215.m3u8
+#EXTINF:-1,HISTORY CHANNEL
+http://178.238.224.19/5858/353.m3u8
+
+#EXTINF:-1,Canal 2
+http://tv.tecnotv.net/block.m3u
+
+#EXTINF:-1,Azteca 7
+http://tv.tecnotv.net/block.m3u
+
+#EXTINF:-1,Canal 5
+http://oneplay.tv/applicationlive/reproducir/52_dfef9f0dc39d2339b9f30912dfdae69b.m3u8
+
+#EXTINF:-1,Azteca 7 Monterrey
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+
+#EXTINF:-1,Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+
+
+#EXTINF:-1,Canal Once
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+
+#EXTINF:-1, Distrito Comedia
+http://178.238.224.19/5858/272.m3u8
+
+
+
+#EXTINF:-1,INFANTIL-------
+http://tv.tecnotv.net
+#EXTINF:-1,Nicktoons
+http://tv.tecnotv.net/block.m3u
+
+
+
+#EXTINF:-1,DISNEY CHANNEL
+http://178.238.224.19/5858/312.m3u8
+
+#EXTINF:-1,NICK
+http://178.238.224.19/5858/315.m3u8
+
+#EXTINF:-1,Tooncast
+http://178.238.224.19/5858/328.m3u8
+
+#EXTINF:-1,Boomerang
+http://178.238.224.19/5858/324.m3u8
+
+#EXTINF:-1,CARTOON NETWORK
+http://178.238.224.19/5858/320.m3u8
+
+
+#EXTINF:-1,Discovery Kids
+http://178.238.224.19/5858/303.m3u8
+
+#EXTINF:-1,Disney Jr
+http://tv.tecnotv.net/block.m3u
+
+
+
+
+
+#EXTINF:-1 , PELICULAS
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+
+
+#EXTINF:-1,Los Simpson
+http://tv.tecnotv.net/Simpson.mp4
+
+#EXTINF:-1, Anime
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
 
 
 #EXTINF:-1,TDN MX-SD
@@ -24,7 +353,7 @@ http://31.220.40.117/LiveEdge/FoxSports2SD/chunklist_w704929475_b1000000.m3u8?se
 #EXTINF:-1,FOX3-SD
 http://31.220.40.123:80/LiveEdge/FoxSports3SD/chunklist_w35264739_b1000000.m3u8?securehash=UTqufTr1btbCWcXerGuhL6MtROmF48IO1U5GitZ03iQ%3D&securestarttime=1456026699&secureendtime=1456048299&secureuserid=143cbf4703902cff2d78d624b0065ef9
 
-#EXTINF:-1,BEIN SPORTS √ë-HD
+#EXTINF:-1,BEIN SPORTS —-HD
 http://iptv-srv01.magikdata.biz:8000/live/quili/quili/768.ts
 
 #EXTINF:-1,PLANETA FUTBOL-SD
@@ -257,14 +586,14 @@ http://178.238.224.19/5858/322.m3u8
 
 
 
-#EXTINF:-1 tvg-id=‚ÄùDiscovery-es‚Äù tvg-logo=‚ÄùDiscovery.png‚Äù group-title=‚ÄùDocumental‚Äù,Discovery en espa√±ol
+#EXTINF:-1 tvg-id=îDiscovery-esî tvg-logo=îDiscovery.pngî group-title=îDocumentalî,Discovery en espaÒol
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8 
 
 #EXTINF:-1, NatGeo Wild HD 720
 http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on 
 
 
-#EXTINF:-1 tvg-id=‚ÄùEl Trece‚Äù tvg-name=‚ÄùEl Trece‚Äù tvg-logo=‚Äùazteca-trece.png‚Äù group-title=‚ÄùVariedades ‚Äì Latinos‚Äù,El Trece M√©xico
+#EXTINF:-1 tvg-id=îEl Treceî tvg-name=îEl Treceî tvg-logo=îazteca-trece.pngî group-title=îVariedades ñ Latinosî,El Trece MÈxico
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8 
 
 
@@ -272,21 +601,21 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8 
 
 
-#EXTINF:-1,Canal 4 Foro TV M√©xico
+#EXTINF:-1,Canal 4 Foro TV MÈxico
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8 
 
 
 #EXTINF:-1,CanaldelasEstrellas Mex.
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8 
 
-#EXTINF:-1 tvg-id=‚ÄùSkyMX_I217.294819232.microsoft.com‚Äù tvg-name=‚ÄùMFOXLA217_MFOXLA217mundo_fox_latin_americanCable‚Äù tvg-logo=‚Äùmundofox.png‚Äù group-title=‚ÄùEspa√±ol‚Äù,Mundo Fox
+#EXTINF:-1 tvg-id=îSkyMX_I217.294819232.microsoft.comî tvg-name=îMFOXLA217_MFOXLA217mundo_fox_latin_americanCableî tvg-logo=îmundofox.pngî group-title=îEspaÒolî,Mundo Fox
 http://66.55.92.79:1935/app/ana69s-channel/.m3u8 
 
 #EXTINF:-1, Mexico Travel
 http://cdns840stu1010.multistream.net/mtchlive/amlst:live/chunklist_b900000.m3u8 
 
 
-#EXTINF:-1, Efekto TV M√©xico
+#EXTINF:-1, Efekto TV MÈxico
 http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-b.m3u8?sd=10&rebase=on 
 
 #EXTINF:-1, TV Mas
@@ -295,22 +624,22 @@ http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
 #EXTINF:-1,THITHD
 http://187.247.255.139/Apple/THITHD.m3u8 
 
-#EXTINF:-1,UNO TV HD 720 M√©xico
+#EXTINF:-1,UNO TV HD 720 MÈxico
 http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8 
 
 #EXTINF:-1,Canal Once
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8 ?
 
 
-#EXTINF:-1 group-title=‚ÄùLATAM‚Äù,MILENIO CENTRO MEXICO LATAM
+#EXTINF:-1 group-title=îLATAMî,MILENIO CENTRO MEXICO LATAM
 http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956 
 
 
-#EXTINF:-1 group-title=‚ÄùNEWS‚Äù,AZTECA NOTICIAS MEXICO LATAM
+#EXTINF:-1 group-title=îNEWSî,AZTECA NOTICIAS MEXICO LATAM
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8 
 
 
-#EXTINF:-1 group-title=‚ÄùMUSIC‚Äù,EXA TV MEXICO LATAM
+#EXTINF:-1 group-title=îMUSICî,EXA TV MEXICO LATAM
 http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8 
 
 #EXTINF:-1,Gotica Music
@@ -334,22 +663,22 @@ http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w500751237_b1200000.m3
 #EXTINF:-1,Canal 9 Bio Bio HD 720
 http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w722946044_b1200000.m3u8 
 
-#EXTINF:0 tvg-id=‚ÄùDirectv_I426.279311944.microsoft.com‚Äù tvg-name=‚ÄùBEINSES426_BEINSES426beIN_Sports_En_Espa¬§olSatellite‚Äù tvg-logo=‚Äùbeins.png‚Äù group-title=‚ÄùEspa√±ol‚Äù,Bein Sports Espanol HD
+#EXTINF:0 tvg-id=îDirectv_I426.279311944.microsoft.comî tvg-name=îBEINSES426_BEINSES426beIN_Sports_En_Espa§olSatelliteî tvg-logo=îbeins.pngî group-title=îEspaÒolî,Bein Sports Espanol HD
 http://tvguia.gam@ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/tvguia.ga.m3u8 
 
-#EXTINF:0 tvg-id=‚ÄùDirectv_I426.279311944.microsoft.com‚Äù tvg-name=‚ÄùBEINSES426_BEINSES426beIN_Sports_En_Espa¬§olSatellite‚Äù tvg-logo=‚Äùbeins.png‚Äù group-title=‚ÄùEspa√±ol‚Äù,Bein Sports Espanol SD
+#EXTINF:0 tvg-id=îDirectv_I426.279311944.microsoft.comî tvg-name=îBEINSES426_BEINSES426beIN_Sports_En_Espa§olSatelliteî tvg-logo=îbeins.pngî group-title=îEspaÒolî,Bein Sports Espanol SD
 http://tvguia.ga@ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b1328000.m3u8
  
-#EXTINF:-1 tvg-id=‚ÄùMotorsTV‚Äù tvg-logo=‚Äùmotorstv.png‚Äù group-title=‚ÄùDeportes‚Äù,Motors TV
+#EXTINF:-1 tvg-id=îMotorsTVî tvg-logo=îmotorstv.pngî group-title=îDeportesî,Motors TV
 http://46.61.226.21/hls/CH_MOTORSTV/variant.m3u8?version=2 
 
-#EXTINF:-1 tvg-id=‚ÄùFox Sports-‚Äù tvg-logo=‚Äùfox sports.png‚Äù group-title=‚ÄùDeportes‚Äù,Fox Sports Latino (SD 4:3 low)
+#EXTINF:-1 tvg-id=îFox Sports-î tvg-logo=îfox sports.pngî group-title=îDeportesî,Fox Sports Latino (SD 4:3 low)
 http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8 
 
-#EXTINF:-1 tvg-id=‚ÄùDiscovery-es‚Äù tvg-logo=‚ÄùDiscovery.png‚Äù group-title=‚ÄùDocumental‚Äù,Discovery en espa√±ol
+#EXTINF:-1 tvg-id=îDiscovery-esî tvg-logo=îDiscovery.pngî group-title=îDocumentalî,Discovery en espaÒol
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8 
 
-#EXTINF:-1 tvg-id=‚ÄùFox Sports USA‚Äù tvg-name=‚ÄùFox Sports USA‚Äù tvg-logo=‚Äùfox sports.png‚Äù group-title=‚ÄùDeportes‚Äù‚Äù,Fox Sports U.S.A HD 720
+#EXTINF:-1 tvg-id=îFox Sports USAî tvg-name=îFox Sports USAî tvg-logo=îfox sports.pngî group-title=îDeportesîî,Fox Sports U.S.A HD 720
 http://fsplive_hls-lh.akamaihd.net/i/fsp_HLSlive05_1@123460/index_1200_av-p.m3u8#MegaIPTVArgentina 
 #EXTINF:-1,MTV Rock
 http://92.50.181.6/tv/1279/index.m3u8 
@@ -364,7 +693,7 @@ http://92.50.181.6/tv/1281/index.m3u8
 #EXTINF:-1, MTV OPCION 2
 http://92.50.181.6/tv/1284/index.m3u8 
 
-#EXTINF:-1,‚Ä¢‚óè‚òÖ‚òÖ‚óè‚Ä¢‚òÖ‚óè‚Ä¢-- VEVO --‚òÖ‚óè‚Ä¢‚òÖ‚óè‚Ä¢‚òÖ‚óè‚Ä¢‚òÖ‚óè‚Ä¢
+#EXTINF:-1,ï????ï??ï-- VEVO --??ï??ï??ï??ï
 
 #EXTINF:-1 tvg-logo="vevo.png",VEVO HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
@@ -384,7 +713,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 
 
 
-#EXTINF:-1,‚Ä¢‚óè‚òÖ‚òÖ‚óè‚Ä¢‚òÖ‚óè‚Ä¢-- ADULT --‚òÖ‚óè‚Ä¢‚òÖ‚óè‚Ä¢‚òÖ‚óè‚Ä¢‚òÖ‚óè‚Ä¢
+#EXTINF:-1,ï????ï??ï-- ADULT --??ï??ï??ï??ï
 
 #EXTINF:-1,XXX VOD1
 http://ru-porn.tv/videofile?id=14015&hq=low&ex=mp4
@@ -434,7 +763,7 @@ http://cobra-iptv.noip.me:8000/movie/papa/papa/8836.mkv
 #EXTINF:-1,XXX-Apprendiste Infermiere
 http://cobra-iptv.noip.me:8000/movie/papa/papa/8839.mkv
 
-#EXTINF:-1,‚Äî- ADULTI LIVE‚Äî-
+#EXTINF:-1,ó- ADULTI LIVEó-
 http://cobra-iptv.noip.me:8000/live/bartolo/bartolo/3672.m3u8 
 #EXTINF:-1,HOT 1
 http://cobra-iptv.noip.me:8000/live/bartolo/bartolo/8890.m3u8 
@@ -488,7 +817,7 @@ http://www.t12v.com:8000/live/francy/francy/1201.ts
 
 
 
-#EXTINF:-1,‚Ä¢‚óè‚òÖ‚òÖ‚óè‚Ä¢‚òÖ‚óè‚Ä¢-- USA --‚òÖ‚óè‚Ä¢‚òÖ‚óè‚Ä¢‚òÖ‚óè‚Ä¢‚òÖ‚óè‚Ä¢
+#EXTINF:-1,ï????ï??ï-- USA --??ï??ï??ï??ï
 
 #EXTINF:-1,US: TSN 1
 http://ipsatpro.com:8000/live/190337745188/19033774518873/1168.ts
@@ -671,7 +1000,7 @@ http://www.t12v.com:8000/live/sarah/sarah/1113.ts
 #EXTINF:-1,UK_SKY_SPORTS_NEWS_HD
 http://www.t12v.com:8000/live/sarah/sarah/1112.ts
 
-#EXTINF:-1,‚Ä¢‚óè‚òÖ‚òÖ‚óè‚Ä¢‚òÖ‚óè‚Ä¢-- BEIN SPORTS HD --‚òÖ‚óè‚Ä¢‚òÖ‚óè‚Ä¢‚òÖ‚óè‚Ä¢‚òÖ‚óè‚Ä¢
+#EXTINF:-1,ï????ï??ï-- BEIN SPORTS HD --??ï??ï??ï??ï
 
 
 #EXTINF:-1,beinHD_Sports_HD1
@@ -707,7 +1036,7 @@ http://37.187.24.177:80/mans/mans/713.ch
 #EXTINF:-1,beinHD_Sports_HD16
 http://37.187.24.177:80/mans/mans/714.ch
 
-#EXTINF:-1,‚Ä¢‚óè‚òÖ‚òÖ‚óè‚Ä¢‚òÖ‚óè‚Ä¢-- TV ESPA√ëOLA --‚òÖ‚óè‚Ä¢‚òÖ‚óè‚Ä¢‚òÖ‚óè‚Ä¢‚òÖ‚óè‚Ä¢
+#EXTINF:-1,ï????ï??ï-- TV ESPA—OLA --??ï??ï??ï??ï
 
 #EXTM3U
 #EXTINF:-1,ES : NEOX
@@ -722,7 +1051,7 @@ http://62.210.162.88:80/live/ES108/162421022016/1762.ts
 http://62.210.162.88:80/live/ES108/162421022016/1754.ts
 #EXTINF:-1,ES : RTP ASTURIAS*
 http://62.210.162.88:80/live/ES108/162421022016/1747.ts
-#EXTINF:-1,ES : RT EN ESPA√ëOL HD*
+#EXTINF:-1,ES : RT EN ESPA—OL HD*
 http://62.210.162.88:80/live/ES108/162421022016/1757.ts
 #EXTINF:-1,ES : ONDA SEVILLA*
 http://62.210.162.88:80/live/ES108/162421022016/1761.ts
