@@ -79,9 +79,9 @@
 
 
 <item>
-<title>[COLOR white][COLOR red]•[/COLOR]TDN2/[COLOR red]SPORTS DEVIL[/COLOR]</title>
-<sportsdevil>http://tutv/porinternet.net/tdn.html</sportsdevil>
-<referer>http://tutv/porinternet.net/</referer>
+<title>[COLOR white][COLOR red]•[/COLOR]HBO PLUS/[COLOR red]SPORTS DEVIL[/COLOR]</title>
+<sportsdevil>http://teveonline.net/hbo-plus-en-vivo/</sportsdevil>
+<referer>http://teveonline.net/</referer>
 <thumbnail>t</thumbnail>
 <fanart>t</fanart>
 </item>
@@ -96,7 +96,11 @@
 </item>
 
 
-
+	  <item>
+        <title>hbo plus(sportdevil)</title>
+        <sportsdevil>http://teveonline.net/hbo-plus-en-vivo/</sportsdevil>
+        <referer>http://teveonline.net/</referer>
+        </item>
 
 
 
